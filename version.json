@@ -1,0 +1,6 @@
+{
+    "version":  "1.0.1",
+    "url":  "https://github.com/canglang-88/linkedin-profile-helper-release/releases/download/v1.0.1/LinkedIn%E8%B5%84%E6%96%99%E4%BF%AE%E6%94%B9%E5%8A%A9%E6%89%8B-%E5%8F%AF%E5%8F%91%E9%80%81%E7%89%88.zip",
+    "notes":  "新增启动自动检查更新：发现新版本后可自动下载、覆盖程序文件并重启；本地资料和配置不会上传或覆盖。",
+    "publishedAt":  "2026-05-27 07:54:36"
+}
